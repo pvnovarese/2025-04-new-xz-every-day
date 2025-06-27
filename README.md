@@ -2,7 +2,7 @@
 
 Slides etc for "A New XZ Every Day" as presented at BSides SLC, 2025-04-11.
 
-Will post video if/when it's available.
+Video recording courtesy of the conference here: https://www.youtube.com/watch?v=pTUNpxRiTIE
 
 The PDF in this repo will download but if you try to view it in-browser you may get some weird "Unable to render code block" error from GitHub. 🤷‍♂️
 
